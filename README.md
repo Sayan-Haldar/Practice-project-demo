@@ -1,4 +1,4 @@
 # Practice-project-demo
 This is my first git reposasitory
 <br>
-Author - Sayan Haldar
+Author - Sayan Haldar(Raj)
